@@ -1,0 +1,128 @@
+id,text,expected_topic,expected_intent,expected_emotion
+1,I am confused about differentiation and integration. Please explain the concept with a simple example.,Mathematics,Need for explanation,confusion
+2,I'm confused about differentiation and integration. Kindly explain the concept with a simple example.,Mathematics,Need for explanation,confusion
+3,Why do we use limits before differentiation? I do not understand this clearly.,Mathematics,Concept misunderstanding,confusion
+4,Why do we use limits before differentiation? I don't understand this clearly.,Mathematics,Concept misunderstanding,confusion
+5,The probability theorem is not clear to me and I keep making mistakes in sums.,Mathematics,Confusion,confusion
+6,I need help solving this matrix question before the test tomorrow.,Mathematics,Deadline pressure,stress
+7,Can you give intuition for calculus derivatives step by step?,Mathematics,Need for explanation,curiosity
+8,Can you give intuition for calculus derivatives step-by-step?,Mathematics,Need for explanation,curiosity
+9,I am scared I will forget formulas in the exam.,Mathematics,Exam anxiety,anxiety
+10,I'm scared I will forget formulas in the exam.,Mathematics,Exam anxiety,anxiety
+11,The algebra problem is not working out and I feel stuck.,Mathematics,Frustration,frustration
+12,The algebra problem is still not working out and I feel stuck.,Mathematics,Frustration,frustration
+13,Please share notes on trigonometry and geometry for revision.,Mathematics,Resource request,neutral
+14,Kindly share notes on trigonometry and geometry for revision.,Mathematics,Resource request,neutral
+15,My Python code is showing a syntax error and I cannot find the bug.,Programming,Debugging / implementation issue,frustration
+16,My Python code is showing a syntax error and I can't find the bug.,Programming,Debugging / implementation issue,frustration
+17,"I tried to run the program again and again, but it is not working.",Programming,Frustration,frustration
+18,"I tried to run the program again and again, but it is still not working.",Programming,Frustration,frustration
+19,Can you explain classes and objects step by step with an example?,Programming,Need for explanation,curiosity
+20,Can you explain classes and objects step-by-step with an example?,Programming,Need for explanation,curiosity
+21,I need a quick explanation of loops before the exam.,Programming,Exam anxiety,anxiety
+22,The output is wrong even though the code looks correct.,Programming,Debugging / implementation issue,confusion
+23,Please share a good tutorial for functions and arrays in programming.,Programming,Resource request,neutral
+24,Kindly share a good tutorial for functions and arrays in programming.,Programming,Resource request,neutral
+25,I am stuck because the compiler keeps throwing errors.,Programming,Frustration,frustration
+26,I'm stuck because the compiler keeps throwing errors.,Programming,Frustration,frustration
+27,This assignment has a deadline today and my code still does not run.,Programming,Assignment/Submission stress,stress
+28,I am confused about stack and queue operations in data structures.,Data Structures,Concept misunderstanding,confusion
+29,I'm confused about stack and queue operations in data structures.,Data Structures,Concept misunderstanding,confusion
+30,How does recursion work in tree traversal? Please clarify.,Data Structures,Clarification request,curiosity
+31,How does recursion work in tree traversal? Kindly clarify.,Data Structures,Clarification request,curiosity
+32,I cannot understand linked list insertion and deletion properly.,Data Structures,Confusion,confusion
+33,I can't understand linked list insertion and deletion properly.,Data Structures,Confusion,confusion
+34,My assignment on graphs is due today and I still do not know where to start.,Data Structures,Assignment/Submission stress,stress
+35,My assignment on graphs is due today and I still don't know where to start.,Data Structures,Assignment/Submission stress,stress
+36,Why is the complexity of heap operations different from arrays?,Data Structures,Need for explanation,curiosity
+37,The sorting question is very hard and I am nervous for the exam.,Data Structures,Exam anxiety,anxiety
+38,The sorting question is very hard and I'm nervous for the exam.,Data Structures,Exam anxiety,anxiety
+39,My stack implementation gives a null pointer error.,Data Structures,Debugging / implementation issue,frustration
+40,"Please provide notes on trees, graphs, and traversal algorithms.",Data Structures,Resource request,neutral
+41,"Kindly provide notes on trees, graphs, and traversal algorithms.",Data Structures,Resource request,neutral
+42,The model accuracy is low and I think the training data is not enough.,Machine Learning,Debugging / implementation issue,frustration
+43,What is overfitting? Please explain in simple words.,Machine Learning,Need for explanation,curiosity
+44,What is overfitting? Kindly explain in simple words.,Machine Learning,Need for explanation,curiosity
+45,I am worried about the machine learning exam and all the formulas.,Machine Learning,Exam anxiety,anxiety
+46,I'm worried about the machine learning exam and all the formulas.,Machine Learning,Exam anxiety,anxiety
+47,Can you provide notes on classification and regression?,Machine Learning,Resource request,neutral
+48,Why is my prediction model giving poor results after training?,Machine Learning,Confusion,confusion
+49,I need a quick explanation of loss function and gradient descent.,Machine Learning,Need for explanation,curiosity
+50,The notebook keeps failing during preprocessing and I am frustrated.,Machine Learning,Frustration,frustration
+51,The notebook keeps failing during preprocessing and I'm frustrated.,Machine Learning,Frustration,frustration
+52,I need to submit the ML project today and I still have issues.,Machine Learning,Assignment/Submission stress,stress
+53,I do not understand tokenization and embeddings in NLP.,NLP,Concept misunderstanding,confusion
+54,I don't understand tokenization and embeddings in NLP.,NLP,Concept misunderstanding,confusion
+55,Please share a good reference for transformer models.,NLP,Resource request,neutral
+56,Kindly share a good reference for transformer models.,NLP,Resource request,neutral
+57,Why is sentence classification giving wrong results?,NLP,Debugging / implementation issue,frustration
+58,I need a step by step explanation of sentiment analysis.,NLP,Need for explanation,curiosity
+59,I need a step-by-step explanation of sentiment analysis.,NLP,Need for explanation,curiosity
+60,What does intent detection mean in chatbots?,NLP,Clarification request,curiosity
+61,I am nervous about the NLP quiz tomorrow.,NLP,Exam anxiety,anxiety
+62,I'm nervous about the NLP quiz tomorrow.,NLP,Exam anxiety,anxiety
+63,The text preprocessing pipeline is not working properly.,NLP,Frustration,frustration
+64,The text preprocessing pipeline is still not working properly.,NLP,Frustration,frustration
+65,Can you give notes on embeddings and language models?,NLP,Resource request,neutral
+66,My SQL join query is not giving the correct output.,Database / SQL,Debugging / implementation issue,frustration
+67,Explain primary key and foreign key with a simple example.,Database / SQL,Need for explanation,curiosity
+68,I am confused about normalization and table design.,Database / SQL,Confusion,confusion
+69,I'm confused about normalization and table design.,Database / SQL,Confusion,confusion
+70,I need help with the database assignment before the deadline.,Database / SQL,Assignment/Submission stress,stress
+71,Why is my SELECT query not returning rows from both tables?,Database / SQL,Clarification request,confusion
+72,"Please share notes on transactions, indexes, and joins.",Database / SQL,Resource request,neutral
+73,"Kindly share notes on transactions, indexes, and joins.",Database / SQL,Resource request,neutral
+74,I am scared I will forget SQL syntax in the exam.,Database / SQL,Exam anxiety,anxiety
+75,I'm scared I will forget SQL syntax in the exam.,Database / SQL,Exam anxiety,anxiety
+76,The schema is fine but the foreign key constraint keeps failing.,Database / SQL,Frustration,frustration
+77,"I do not understand TCP, UDP, and IP clearly.",Computer Networks,Concept misunderstanding,confusion
+78,"I don't understand TCP, UDP, and IP clearly.",Computer Networks,Concept misunderstanding,confusion
+79,Why does packet loss happen in networks?,Computer Networks,Clarification request,curiosity
+80,The routing question is very hard and I am scared for the exam.,Computer Networks,Exam anxiety,anxiety
+81,The routing question is very hard and I'm scared for the exam.,Computer Networks,Exam anxiety,anxiety
+82,Please give notes on DNS and HTTP protocols.,Computer Networks,Resource request,neutral
+83,Kindly give notes on DNS and HTTP protocols.,Computer Networks,Resource request,neutral
+84,How does subnetting work? Explain it simply.,Computer Networks,Need for explanation,curiosity
+85,My socket program is not connecting to the server.,Computer Networks,Debugging / implementation issue,frustration
+86,I need help with the network assignment today.,Computer Networks,Deadline pressure,stress
+87,I am confused about switching and routing concepts.,Computer Networks,Confusion,confusion
+88,I'm confused about switching and routing concepts.,Computer Networks,Confusion,confusion
+89,Deadlock and semaphore are confusing me a lot.,Operating Systems,Confusion,confusion
+90,How does paging work in virtual memory? Explain simply.,Operating Systems,Need for explanation,curiosity
+91,My OS assignment is urgent and I need help now.,Operating Systems,Deadline pressure,stress
+92,The process scheduling program is not working and shows an error.,Operating Systems,Debugging / implementation issue,frustration
+93,The process scheduling program is still not working and shows an error.,Operating Systems,Debugging / implementation issue,frustration
+94,"Please share notes on processes, threads, and memory management.",Operating Systems,Resource request,neutral
+95,"Kindly share notes on processes, threads, and memory management.",Operating Systems,Resource request,neutral
+96,I am nervous about the OS viva and I keep forgetting details.,Operating Systems,Exam anxiety,anxiety
+97,I'm nervous about the OS viva and I keep forgetting details.,Operating Systems,Exam anxiety,anxiety
+98,Why is context switching needed in operating systems?,Operating Systems,Clarification request,curiosity
+99,The synchronization question is not clear to me.,Operating Systems,Concept misunderstanding,confusion
+100,"I am confused about voltage, current, and resistance.",Electronics,Concept misunderstanding,confusion
+101,"I'm confused about voltage, current, and resistance.",Electronics,Concept misunderstanding,confusion
+102,Please explain transistor and diode functions step by step.,Electronics,Need for explanation,curiosity
+103,Kindly explain transistor and diode functions step-by-step.,Electronics,Need for explanation,curiosity
+104,The circuit is not giving the expected output and I am frustrated.,Electronics,Frustration,frustration
+105,The circuit is not giving the expected output and I'm frustrated.,Electronics,Frustration,frustration
+106,I need notes on logic gates for tomorrow's quiz.,Electronics,Exam anxiety,anxiety
+107,Why does this op-amp circuit behave like this?,Electronics,Clarification request,curiosity
+108,My breadboard circuit is failing and I cannot find the issue.,Electronics,Debugging / implementation issue,frustration
+109,My breadboard circuit is failing and I can't find the issue.,Electronics,Debugging / implementation issue,frustration
+110,I have to submit the electronics lab work today.,Electronics,Assignment/Submission stress,stress
+111,Please share a reference for digital and analog circuits.,Electronics,Resource request,neutral
+112,Kindly share a reference for digital and analog circuits.,Electronics,Resource request,neutral
+113,Can you clarify what exactly I should do in this question?,Other,Clarification request,neutral
+114,I am stuck and I do not know how to solve this problem.,Other,Frustration,frustration
+115,I'm stuck and I don't know how to solve this problem.,Other,Frustration,frustration
+116,Please share any tutorial or pdf for this topic.,Other,Resource request,neutral
+117,Kindly share any tutorial or pdf for this topic.,Other,Resource request,neutral
+118,This is urgent and I need help today.,Other,Deadline pressure,stress
+119,"I understand the topic now, thank you!",Other,Clarification request,confidence
+120,What is the difference between this method and the previous one?,Other,Clarification request,curiosity
+121,I am nervous because the final exam is near.,Other,Exam anxiety,anxiety
+122,I'm nervous because the final exam is near.,Other,Exam anxiety,anxiety
+123,The explanation was clear but I still want one more example.,Other,Need for explanation,curiosity
+124,Please help me before I submit this assignment.,Other,Assignment/Submission stress,stress
+125,Kindly help me before I submit this assignment.,Other,Assignment/Submission stress,stress
+126,I am not sure if my answer is correct.,Other,Clarification request,confusion
+127,I'm not sure if my answer is correct.,Other,Clarification request,confusion

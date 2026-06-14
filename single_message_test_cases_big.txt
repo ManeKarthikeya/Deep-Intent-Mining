@@ -1,0 +1,60 @@
+I am confused about differentiation and integration. Please explain with a simple example.
+My Python code is showing a syntax error and I cannot find the bug.
+I need help solving this matrix question before the test tomorrow.
+What is overfitting? Please explain in simple words.
+My SQL join query is not giving the correct output.
+Deadlock and semaphore are confusing me a lot.
+I need notes on logic gates for tomorrow's quiz.
+This is urgent and I need help today.
+I am nervous because the final exam is near.
+Can you clarify what exactly I should do in this question?
+The circuit is not giving the expected output and I am frustrated.
+Please share a good reference for transformer models.
+How do I solve this integration problem without getting confused?
+I am scared I will forget SQL syntax in the exam.
+My socket program is not connecting to the server.
+The text preprocessing pipeline is not working properly.
+Please explain deadlock prevention with an example.
+I need a quick explanation of loss function and gradient descent.
+I am stuck while implementing linked lists in C.
+Why is my function returning None instead of the result?
+My assignment is due today and I still have not finished the database part.
+I need help with debugging this Java program urgently.
+Please give notes on DNS and HTTP protocols.
+I am confused about transformer attention.
+The process scheduling program is not working and shows an error.
+How does context switching work in operating systems?
+I am worried about the machine learning exam and all the formulas.
+Can you explain classes and objects step by step with an example?
+My breadboard circuit is failing and I cannot find the issue.
+What does intent detection mean in chatbots?
+I do not understand TCP, UDP, and IP clearly.
+The query is slow and I need help optimizing it.
+I am scared I will mix up the logic gate symbols in the exam.
+Please share notes on trees, graphs, and traversal algorithms.
+I need a quick revision of statistics before tomorrow's quiz.
+Why is packet loss happening in this network?
+The explanation was clear but I still want one more example.
+My stack implementation gives a null pointer error.
+Please share notes on processes, threads, and memory management.
+I am not sure if my answer is correct.
+How is tokenization different from stemming?
+I need help with the network assignment right now.
+The algebra problem is not working out and I feel stuck.
+Can you give intuition for calculus derivatives step by step?
+I am nervous about the OS viva and I keep forgetting details.
+Please share a reference for digital and analog circuits.
+I need a fast explanation of formulas before the test.
+My query is failing because the foreign key constraint keeps failing.
+I am confused about stack and queue operations in data structures.
+This assignment has a deadline today and my code still does not run.
+The model accuracy is low and I think the training data is not enough.
+Can you explain transistor and diode functions step by step?
+Please help me before I submit this assignment.
+Why does this op-amp circuit behave like this?
+I am scared because the final exam is near and I am not prepared.
+How do GROUP BY and HAVING work differently?
+My program compiles but the output is wrong.
+I need notes on classification and regression.
+The synchronization question is not clear to me.
+Please share any tutorial or pdf for this topic.

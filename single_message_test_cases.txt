@@ -1,0 +1,12 @@
+I am confused about derivatives and integration. Please explain with one simple example.
+My Python code is showing a syntax error and I cannot find the bug.
+I do not understand stack and queue operations clearly.
+What is overfitting? Please explain in simple words.
+My SQL join query is not giving the correct output.
+Deadlock and semaphore are confusing me a lot.
+I need notes on logic gates for tomorrow's quiz.
+This is urgent and I need help today.
+I am nervous because the final exam is near.
+Can you clarify what exactly I should do in this question?
+The circuit is not giving the expected output and I am frustrated.
+Please share a good reference for transformer models.

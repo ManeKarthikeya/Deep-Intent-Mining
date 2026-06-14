@@ -1,0 +1,50 @@
+I am confused about derivatives and integration. Please explain the concept with a simple example.
+My code is showing a syntax error and I cannot find the bug.
+What is overfitting? Please explain in simple words.
+I need help solving this matrix question before the test tomorrow.
+The model accuracy is low and I think the training data is not enough.
+Please share notes on processes, threads, and memory management.
+I am scared I will forget SQL syntax in the exam.
+The process scheduling program is not working and shows an error.
+I am stuck and I do not know how to solve this problem.
+Please explain transistor and diode functions step by step.
+How does paging work in virtual memory? Explain simply.
+The text preprocessing pipeline is not working properly.
+I need a quick explanation of loss function and gradient descent.
+The routing question is very hard and I am scared for the exam.
+Please give notes on DNS and HTTP protocols.
+My socket program is not connecting to the server.
+I have to submit the electronics lab work today.
+I am not sure if my answer is correct.
+Why is sentence classification giving wrong results?
+Can you give intuition for calculus derivatives step by step?
+I need a fast explanation of formulas before the test.
+The query is slow and I need help optimizing it.
+I am nervous because the final exam is near.
+Please share a reference for digital and analog circuits.
+My stack implementation gives a null pointer error.
+What does intent detection mean in chatbots?
+I do not understand TCP, UDP, and IP clearly.
+Can you clarify what exactly I should do in this question?
+The algebra problem is not working out and I feel stuck.
+Please share notes on trees, graphs, and traversal algorithms.
+I am worried about the machine learning exam and all the formulas.
+Why does packet loss happen in networks?
+My Python code is showing a syntax error and I cannot find the bug.
+The synchronization question is not clear to me.
+How do GROUP BY and HAVING work differently?
+I need help with debugging this Java program urgently.
+Please share any tutorial or pdf for this topic.
+I am confused about transformer attention.
+The circuit is not giving the expected output and I am frustrated.
+I need a quick revision of statistics before tomorrow's quiz.
+My assignment is due today and I still have not finished the database part.
+Can you explain classes and objects step by step with an example?
+Deadlock and semaphore are confusing me a lot.
+I am scared I will mix up the logic gate symbols in the exam.
+The query is failing because the foreign key constraint keeps failing.
+Please explain deadlock prevention with an example.
+I need help with the network assignment right now.
+How is tokenization different from stemming?
+My breadboard circuit is failing and I cannot find the issue.
+The explanation was clear but I still want one more example.

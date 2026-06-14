@@ -1,0 +1,20 @@
+I am confused about differentiation and integration. Please explain the concept with a simple example.
+My code is showing a syntax error and I cannot find the bug.
+What does intent detection mean in chatbots?
+I need help solving this matrix question before the test tomorrow.
+The model accuracy is low and I think the training data is not enough.
+Please share notes on processes, threads, and memory management.
+I am scared I will forget SQL syntax in the exam.
+The process scheduling program is not working and shows an error.
+I am stuck and I do not know how to solve this problem.
+Please explain transistor and diode functions step by step.
+How does paging work in virtual memory? Explain simply.
+The text preprocessing pipeline is not working properly.
+I need a quick explanation of loss function and gradient descent.
+The routing question is very hard and I am scared for the exam.
+Please give notes on DNS and HTTP protocols.
+My socket program is not connecting to the server.
+I have to submit the electronics lab work today.
+I am not sure if my answer is correct.
+Why is sentence classification giving wrong results?
+Can you give intuition for calculus derivatives step by step?
